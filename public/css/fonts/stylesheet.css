@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Netron';
+    src: url('Netron-Regular.eot');
+    src: url('Netron-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Netron-Regular.woff2') format('woff2'),
+        url('Netron-Regular.woff') format('woff'),
+        url('Netron-Regular.ttf') format('truetype'),
+        url('Netron-Regular.svg#Netron-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
